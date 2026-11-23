@@ -1,4 +1,4 @@
-DATE : 05/11/2026
+DATE : 23/11/2026
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
 <h3>Name: Jones Benedict A P </h3>
 <h3>Register Number: 212224040142 </h3>
